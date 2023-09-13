@@ -14,16 +14,6 @@ Neste projeto, estarei explorando o conjunto de dados do Titanic, que contém in
 
 4. **Modelagem de Machine Learning**
 
-5. **Conclusões**
-
-## Resultados
-
-Os resultado dos modelos e quaisos finais do projeto, incluindo a precisã características são mais importantes para a previsão de sobrevivência, serão detalhados no projeto concluído.
-
-## Como Usar
-
-Este projeto é uma análise em andamento e ainda não está concluído. No entanto, você pode clonar este repositório e acompanhar o progresso à medida que o projeto avança.
-
 ```bash
 git clone https://github.com/LucasRAlbino/Titanic_Dataset_Kaggle
 
