@@ -4,7 +4,7 @@ Este é um projeto de análise de dados realizado como parte do aprendizado em D
 
 ## Descrição do Projeto
 
-Neste projeto, explorei o conjunto de dados do Titanic, que contém informações sobre passageiros, incluindo características como idade, sexo, classe e se sobreviveram ou não. O projeto incluiu as seguintes etapas:
+Neste projeto, estarei explorando o conjunto de dados do Titanic, que contém informações sobre passageiros, incluindo características como idade, sexo, classe e se sobreviveram ou não. O projeto incluiu as seguintes etapas:
 
 1. **Exploração de Dados**
 
